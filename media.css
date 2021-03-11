@@ -58,4 +58,61 @@
 		font-size: 12px;
 		line-height: 15px;
 	}
+
+	.skills-text {
+		max-width: 90%;
+		margin: auto;
+		padding: 25px 0;
+		text-align: center;
+	}
+
+	.skills-block {
+		display: block;
+	}
+
+	.skills-value {
+		max-width: 100%;
+		font-size: 12px;
+	}
+
+	.skills-value div {
+		font-size: 12px;
+		text-align: left;
+	}
+
+	.skills-block-3 div, .skills-block-1 div {
+		width: 211px;
+	}
+
+	.value-1, .value-2, .value-3 {
+		width: 211px;
+		height: 18px;
+		background-color: #F5D6AB;
+	}
+	.value-1 div, .value-2 div, .value-3 div {
+		width: 135px;
+		height: 18px;
+		background-color: #C66C49;
+	}
+
+	.value-2 div {
+		width: 165px;
+	}
+
+	.value-3 div {
+		width: 180px;
+	}
+
+	.skills-block-1 h5 {
+		margin-bottom: 30px;
+	}
+
+	.skills-value h5 {
+		margin-bottom: 10px;
+	}
+
+	.skills-block img {
+		width: 224px;
+		margin-bottom: 25px;
+	}
 }
