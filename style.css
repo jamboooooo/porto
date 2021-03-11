@@ -75,7 +75,7 @@ header {
 }
 
 main {
-	width: 100%;
+	max-width: 100%;
 	margin: auto;
 }
 
@@ -84,7 +84,7 @@ main {
 }
 
 .about-text {
-	width: 1110px;
+	max-width: 1110px;
 	margin: auto;
 	padding-top: 93px;
 	padding-bottom: 115px;
@@ -99,7 +99,7 @@ h3 {
 }
 
 .about-block {
-	width: 1110px;
+	max-width: 1110px;
 }
 
 .about-text p {
@@ -108,11 +108,11 @@ h3 {
 }
 
 .skills {
-	background-color: white;
+	background-color: #FFFAF2;
 }
 
 .skills-text {
-	width: 1110px;
+	max-width: 1110px;
 	margin: auto;
 	padding-top: 93px;
 	padding-bottom: 145px;

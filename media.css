@@ -34,4 +34,28 @@
 	.header-text {
 		padding-bottom: 50px;
 	}
+
+	.about-text {
+		max-width: 90%;
+		text-align: center;
+		padding-top: 25px;
+		padding-bottom: 15px;
+	}
+
+	.about-block {
+		text-align: left;
+		margin: auto;
+	}
+
+	h3 {
+		margin: 0;
+		font-size: 24px;
+		line-height: 29,09px;
+		margin-bottom: 20px;
+	}
+
+	.about-text p {
+		font-size: 12px;
+		line-height: 15px;
+	}
 }
