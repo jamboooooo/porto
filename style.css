@@ -197,7 +197,7 @@ h3 {
 }
 
 .portfolio-text {
-	width: 1110px;
+	max-width: 1110px;
 	margin: auto;
 	padding-top: 93px;
 	padding-bottom: 145px;
@@ -240,19 +240,15 @@ h3 {
 }
 
 .images-block-1 {
-	width: 350px;
+	max-width: 350px;
 }
 
-.images-block-1 img {
-	margin-bottom: 26px;
+.img-first {
+	margin-bottom: 25px;
 }
 
 .images-block-2 {
 	width: 255px;
-}
-
-.images-block-2 img {
-	margin-bottom: 26px;
 }
 
 .contact-text {

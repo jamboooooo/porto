@@ -115,4 +115,59 @@
 		width: 224px;
 		margin-bottom: 25px;
 	}
+
+	.portfolio-text {
+		width: 90%;
+		margin: auto;
+		padding: 25px 0;
+		text-align: center;
+	}
+
+	.portfolio-text h3 {
+		margin-bottom: 0;
+	}
+
+	.portfolio-text h5 {
+		font-size: 14px;
+		margin: 15px 0;
+	}
+
+	.portfolio-block {
+		display: block;
+		position: relative;
+	}
+
+	.portfolio-block p {
+		width: auto;
+		font-size: 12px;
+		line-height: 15px;
+		margin: 0;
+		margin-bottom: 15px;
+	}
+
+	.arrows {
+		position: absolute;
+		opacity: 0;
+	}
+
+	.images-block {
+		width: 100%;
+	}
+
+	.images-block-1 {
+		width: 55%;
+	}
+
+	.images-block img {
+		width: 100%;
+	}
+
+	.images-block-2 {
+		width: 40%;
+	}
+
+	.img-first {
+		margin-bottom: 10px;
+	}
+
 }
