@@ -251,8 +251,12 @@ h3 {
 	width: 255px;
 }
 
+.contact {
+	background-color: #FFFAF2;
+}
+
 .contact-text {
-	width: 1110px;
+	max-width: 1110px;
 	margin: auto;
 	padding-top: 93px;
 	padding-bottom: 189px;
@@ -261,7 +265,7 @@ h3 {
 .contact-block {
 	display: flex;
 	justify-content: space-between;
-	width: 928px;
+	flex-wrap: wrap;
 }
 
 .contact-block ul {
